@@ -1,0 +1,1 @@
+jdbc:db2://prdbcraw3gen05.w3-969.ibm.com:60000/MEDIATOR
